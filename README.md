@@ -1,0 +1,2 @@
+# -second
+scanf function
